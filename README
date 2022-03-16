@@ -1,0 +1,16 @@
+#
+# J.I 2022.3.16
+#
+
+初期設定
+
+ALLOWED_HOSTS = ['*']
+
+# Internationalization
+LANGUAGE_CODE = 'ja'
+TIME_ZONE = 'Asia/Tokyo'
+
+
+http://127.0.0.1:8000/adim
+でユーザー作成画面へと入る。
+
