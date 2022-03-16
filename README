@@ -14,3 +14,13 @@ TIME_ZONE = 'Asia/Tokyo'
 http://127.0.0.1:8000/adim
 でユーザー作成画面へと入る。
 
+
+# github
+
+git init
+git remote add main https://github.com/zhuxia2681/django_newuser.git
+git add .
+git commit -m "test"
+git push -f main 
+
+'-f' がないと初回うまくいかない。
